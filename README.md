@@ -1,2 +1,2 @@
 # language-learning-app-phase-5
-Help users find a fun and easy way to learn a new language
+This app was designed to help users learn a new language in a fun and easy way. Users can complete selected quizzes, progress forms to help them monitor their progress, and store words they need to improve on. 
